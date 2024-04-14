@@ -5,5 +5,5 @@ En el presente repositorio se recopilan los ficheros en R y base de datos utiliz
 - RSQLite
 - stringr
 - dplyr
-## Creditos
+## Créditos
 Ivan Castillo
