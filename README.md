@@ -1,7 +1,9 @@
 # Prueba ADRES - Ivan Castillo
-En el presente boletín de resultados se documenta el tratamiento de registros, proceso y conclusión del análisis de los datos suministrados para la prueba: Municipios y Prestadores. 
+En el presente repositorio se recopilan los ficheros en R y base de datos utilizados para el tratamiento de registros, proceso y conclusión del análisis de los registros suministrados para la prueba: Municipios y Prestadores. 
 ## Librería usadas
 - DBI
 - RSQLite
 - stringr
 - dplyr
+## Creditos
+Ivan Castillo
